@@ -387,3 +387,15 @@ span{
 }
 
 }
+#assignment {
+    background-color: #f5f5f5;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  #assignment img {
+    max-width: 100%;
+    height: auto;
+    margin-top: 20px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+  }
